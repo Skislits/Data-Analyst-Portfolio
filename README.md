@@ -6,3 +6,5 @@
 5) https://chernobrovov.ru/
 6) https://datalearn.ru/
 7) https://revealthedata.com/
+
+Календарь в гугл док https://docs.google.com/spreadsheets/d/1rVrcRCIrfrr7KNLUetN32OLFpc1WziBzO5dlCT4XsqY/edit?usp=sharing
